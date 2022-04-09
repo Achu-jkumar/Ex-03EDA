@@ -10,13 +10,13 @@ anomalies to direct specific testing of your hypothesis.
 
 # ALGORITHM
 ### STEP 1
-
+ Import the built libraries required to perform EDA and outlier removal.
 ### STEP 2
-
+Use seaborn the bar graph comparison of data can be viewed.
 ### STEP 3
-
+Using crosstab the numerical data on the dataset can be compared and viewed. 
 ### STEP 4
-
+The heatmap is used to represent the difference between the values. 
 
 
 # CODE:
